@@ -233,6 +233,7 @@ form .label2{
     grid-template-rows: 7vh 38vh 10vh;
     gap: 2px;
     
+    
 }  
 
 
@@ -240,6 +241,7 @@ form .label2{
     grid-column-start: 1 ;
     grid-column-end: 3;
     margin-top: 10px;
+    
   
 }
 .area-post .item-post .conteudo-post h3{
@@ -271,9 +273,11 @@ form .label2{
     border-bottom:  2px solid darkolivegreen;
     border-left:  2px solid darkolivegreen;
     overflow-wrap: break-word;
+
    
-    
-   
+}
+.area-post .item-post .conteudo-post i{
+    position: absolute;
 }
 
 .area-post .item-post .conteudo-post .esconder-post{
